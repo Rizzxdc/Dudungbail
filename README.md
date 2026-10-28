@@ -1,4 +1,4 @@
-# WhatsApp Baileys Badzz
+# WhatsApp Baileys AlwaysRizz 
 
 <p align="center">
   <img src="https://b.top4top.io/p_3816tx02l1.jpg" alt="Thumbnail" />
@@ -123,9 +123,9 @@ Send basic interactive messages with copy button functionality:
 ```javascript
 await sock.sendMessage(target, {
     interactiveMessage: {
-        header: "#BADZZNE",
-        title: "#BADZZNE",
-        footer: "telegram: @badzzne2 ",
+        header: "#AlwaysRizz",
+        title: "#AlwaysRizz",
+        footer: "telegram: @Rizznotdevcuy ",
         buttons: [
             {
                 name: "cta_copy",
